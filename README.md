@@ -5,7 +5,7 @@ Sou estudante de Engenharia da Computação e desenvolvo projetos web com React,
 ## Projetos
 
 - **Site portfólio:** em desenvolvimento; reunirá meus projetos e minha trajetória.
-- **Plataforma de RPG Dragon Ball:** projeto pessoal para gerenciar campanhas e fichas de personagens.
+- **Plataforma de RPG:** projeto pessoal para gerenciar campanhas e fichas de personagens.
 - **Overlay para OBS:** interface para apresentar informações durante transmissões ao vivo.
 
 ## Atualmente estudando
