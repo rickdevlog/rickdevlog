@@ -1,16 +1,13 @@
-## Hi there 👋
+# Olá, sou Ricardo Lemos
 
-<!--
-**rickdevlog/rickdevlog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou estudante de Engenharia da Computação e desenvolvo projetos web com React, JavaScript, PHP e SQL. Atualmente, estou aprofundando meus conhecimentos em desenvolvimento Full Stack.
 
-Here are some ideas to get you started:
+## Projetos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Site portfólio:** em desenvolvimento; reunirá meus projetos e minha trajetória.
+- **Plataforma de RPG Dragon Ball:** projeto pessoal para gerenciar campanhas e fichas de personagens.
+- **Overlay para OBS:** interface para apresentar informações durante transmissões ao vivo.
+
+## Atualmente estudando
+
+React, PHP, SQL e desenvolvimento de aplicações web completas.
